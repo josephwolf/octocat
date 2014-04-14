@@ -1,0 +1,1 @@
+Upstream is the term used for pushing edits and files from your machine to github.
