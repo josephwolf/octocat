@@ -1,0 +1,1 @@
+Git Clone creates a new directory on the recipient's machine that is a copy of the respository stored on github.
